@@ -10,28 +10,28 @@ This capstone project involves containerizing a static educational website (base
 
 🎓 What You'll Learn
 ✅ 1. Docker Fundamentals
-
 Writing a Dockerfile to containerize a static web app using a lightweight web server (e.g., Nginx or httpd).
 Understanding base images, COPY, WORKDIR, and EXPOSE directives.
-✅ 2. Docker Image Creation
 
+
+✅ 2. Docker Image Creation
 Building custom images for front-end deployment.
 Optimizing image size and structure for production.
-✅ 3. Serving Static Content with Nginx
 
+✅ 3. Serving Static Content with Nginx
 Configuring Nginx in a container to serve HTML, CSS, and JS assets.
 Adding a custom nginx.conf file to control routing, caching, and error handling.
+
 ✅ 4. Docker Volumes (Optional Enhancement)
-
 Using bind mounts or named volumes to live-reload content during development.
+
 ✅ 5. Docker Compose (Optional for Extension)
-
 Adding Docker Compose to manage Nginx + potential extensions (e.g., analytics or form backend stubs) with one command.
-✅ 6. Deployment Readiness
 
+✅ 6. Deployment Readiness
 Testing and running the container locally (docker run).
-Tagging and pushing to Docker Hub (optional).
-Preparing for deployment on services like Render, Vercel (via Docker), or a VPS.
+Tagging and pushing to Docker Hub.
+
 
 🗂️ Project Structure (Simplified)
 school-website/
