@@ -1,4 +1,5 @@
-# This is a Capston project for the Docker course.
+# Deploying a fully responsive fron-end website for an educational insitute using Docker
+
 🌐 Project Overview
 This capstone project is a fully responsive, front-end website developed for an educational institution. It is based on a professionally designed template sourced from Envato Elements, which was customized and extended using modern front-end technologies including HTML, CSS, SASS, and JavaScript.
 
